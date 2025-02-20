@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'font-4';
-    src: url("../font/LXGWWenKaiMono-Regular.ttf") format("truetype");
+    src: url("../font/LXGWWenKaiMono-Regular.woff") format("truetype");
 }
 
 .card {
